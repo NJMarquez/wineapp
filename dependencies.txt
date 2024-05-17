@@ -1,0 +1,5 @@
+npm install react-native-screens react-native-safe-area-context
+npm install @react-navigation/bottom-tabs
+npm install @react-navigation/bottom-tabs react-native-vector-icons
+npm install @react-navigation/stack
+npx expo install react-native-gesture-handler react-native-reanimated
