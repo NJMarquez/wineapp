@@ -21,14 +21,15 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.njmarquez.wineapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "7a381fb8-655d-4ac8-ac4c-5ca500327ff9"
+        "projectId": "be59a288-7852-4c56-8886-8fed94eb999d"
       }
     }
   }
